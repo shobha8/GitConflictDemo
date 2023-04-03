@@ -6,4 +6,6 @@
  *
  */
 module GitConflictDemo {
+  System.out.println("welcome");
+
 }
