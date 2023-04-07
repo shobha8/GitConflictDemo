@@ -7,7 +7,9 @@ public class demo1 {
 		System.out.println("Hello");
 		System.out.println("Hello Welcome");
 	
-	///
-		}
+
+		
+		//////
+	}
 
 }
